@@ -1,0 +1,25 @@
+# Key value pair
+"apple" : "I am a red fruit"
+1: "this is kunal's roll number"
+
+# lists
+  - apple
+  - mango
+  - banana
+  - Apple
+
+# YAML is case sensitive 
+
+# Spacing convention
+  cities:
+    - new delhi
+    - mumbai
+    - gujarat
+
+
+---
+  # To make it like these are different kind of documents
+---
+
+# Document has ended
+... 
