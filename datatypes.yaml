@@ -1,0 +1,21 @@
+# string variables
+myself: Kunal Kushwaha
+fruits: "apple"
+job: 'swe'
+
+# Multiple Line
+bio: | 
+  hey my name is Lakshay Bisht
+  I am a very nice dude
+
+# Write a single line in multiple lines
+message: >
+  this will
+  all be
+  in one single line
+
+numbers: 5432
+marks: 99.90
+booleanValue: No
+
+
